@@ -1,2 +1,2 @@
-# Reposit-rio-de-Estudos
+# Repositorio-de-Estudos
 Repositório de Estudos
